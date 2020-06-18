@@ -17,3 +17,7 @@ end
 def using_delete(arr1, str1)
   arr1.delete(str1)
 end
+
+def using_delete_at(array, integer)
+  array.delete_at(interger)
+end
